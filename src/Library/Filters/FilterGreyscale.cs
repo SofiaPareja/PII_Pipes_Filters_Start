@@ -31,6 +31,7 @@ namespace CompAndDel.Filters
                     result.SetColor(x, y, colorGris);
                 }
             }
+            
 
             return result;
         }
